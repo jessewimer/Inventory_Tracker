@@ -1,3 +1,5 @@
+#TEST PUSH 6/27/2023 @ 10:40 am
+print("test push")
 #Analyzes the product export csv from Shopify to determine
 #which packets have a zero inventory, and
 #which bulk items need to be reallocated
